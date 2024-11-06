@@ -1,0 +1,11 @@
+{
+	"id": "usa-elec-2024",
+	"name": "USA President Election 2024",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "View USA president election results on Obsidian",
+	"author": "Nanamiiiii",
+	"authorUrl": "https://myuu.dev",
+	"fundingUrl": "https://myuu.dev",
+	"isDesktopOnly": true
+}
